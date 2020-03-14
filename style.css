@@ -1,0 +1,20 @@
+#brand{
+    height: 80px;
+    width: 80px;
+}
+.brandName{
+    font-size: 28px;
+    padding-left: 10px;
+    text-decoration: none;
+}
+.slider1{
+    height: 500px;
+    overflow: hidden;
+}
+.aboutUs{
+    font-size: 26px;
+    margin-top: 20%;
+}
+.about_pic{
+    padding-top: 20%;
+}
